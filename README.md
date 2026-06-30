@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [eyyu.vercel.app](eyyu.vercel.app)
+- 👨‍💻 All of my projects are available at [eyyu.vercel.app](https://eyyu.vercel.app)
 
 - 📫 How to reach me **eyufeyisa7@gmail.com**
 
