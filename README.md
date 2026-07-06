@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 
-  <a href="https://t.me/@HAKARIIIIII">
+  <a href="https://t.me/HAKARIIIIII">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
