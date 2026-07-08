@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyyu</h1>
 
 <p align="center">
-  <b>Backend Developer • FastAPI • Python</b>
+  <b>Backend Developer • FastAPI  • Python</b>
 </p>
 
 <p align="center">
