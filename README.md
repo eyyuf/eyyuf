@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyyu</h1>
 <p align="center">
-  <b>Backend Developer • FastAPI • Python</b>
+  <b>Backend Developer • FastAPI • Python|kotlin</b>
 </p>
 <p align="center">
   I enjoy building fast, scalable APIs and exploring new technologies.
