@@ -9,13 +9,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **FastAPI**
 - 💻 Building backend applications with **Python**
-- 🌐 Portfolio: **<a
-  href="https://eyyuf.vercel.app"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Portfolio
-</a>**
+- 🌐 Portfolio: **<a href="https://eyyuf.vercel.app" target="_blank" rel="noopener noreferrer"> Portfolio </a>**
 - 📧 **eyufeyisa7@gmail.com**
 
 ## 🛠️ Tech Stack
